@@ -12,6 +12,6 @@
 <a href="https://stackoverflow.com/users/9023032" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9023032" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hessam-emami&show_icons=true&theme=dark&locale=en&layout=compact" alt="hessam-emami" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hessam-emami&show_icons=true&locale=en&layout=compact" alt="hessam-emami" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hessam-emami&show_icons=true&theme=dark&locale=en" alt="hessam-emami" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hessam-emami&show_icons=true&locale=en" alt="hessam-emami" /></p>
