@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, Its Hessam</h1>
-<h3 align="center">A violinist who followed his passion, Software Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hessam-emami&label=Profile%20views&color=0e75b6&style=flat" alt="hessam-emami" /> </p>
+<h3 align="center">A violinist and at the same time, A software engineer who is passionate about Android</h3>
 
 - 💬 Ask me about **Kotlin, Android**
 
