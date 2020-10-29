@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Its Hessam</h1>
+<h1 align="center">Hey 👋, It's Hessam</h1>
 <h3 align="center">A violinist and at the same time, A software engineer who is passionate about Android</h3>
 
 - 💬 Ask me about **Kotlin, Android**
